@@ -1,2 +1,1 @@
-# WFA - Online Tours and Travels
-DataBase Management System
+# WFA - Online Tours and Travels DataBase Management System
